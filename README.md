@@ -1,5 +1,5 @@
 # SerialGen
-An automation script for ysoserial payload generation.
+An automation script for ysoserial payload generation and the identification of vulnerable gadgets using Burp Intruder and Collaborator.
 
 - Intro
   - As BurpSuite's Deserialization Scanner almost never works... I built SerialGen to automate the generation of payloads using ysoserial.
